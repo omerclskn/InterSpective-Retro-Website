@@ -14,7 +14,7 @@ With the end of my internship process, the development of the project was interr
 
 ![anasayfa](./image/anasayfa.PNG)
 
-![MadSadGlad](./image/madsadglad.PNG)
+![MadSadGlad](./image/madsadglad.png)
 
 ![Ürünler](./image/ürünler.PNG)
 
