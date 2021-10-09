@@ -16,6 +16,6 @@ With the end of my internship process, the development of the project was interr
 
 ![MadSadGlad](./image/madsadglad.png)
 
-![Ürünler](./image/ürünler.PNG)
+![Ürünler](./image/urunler.PNG)
 
 ![Login](./image/login.PNG)
