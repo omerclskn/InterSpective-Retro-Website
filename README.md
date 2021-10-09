@@ -11,3 +11,11 @@ With the end of my internship process, the development of the project was interr
 
 
 ![Retro](./image/retro.PNG)
+
+![anasayfa](./image/anasayfa.PNG)
+
+![MadSadGlad](./image/madsadglad.PNG)
+
+![Ürünler](./image/ürünler.PNG)
+
+![Login](./image/login.PNG)
